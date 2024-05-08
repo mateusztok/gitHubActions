@@ -1,4 +1,3 @@
-""" przykladowe testy w pliku test_example . py"""
 import pytest
 import utils
 
