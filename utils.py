@@ -1,4 +1,5 @@
-# Sample utility functions
+"""Sample utility functions"""
+
 
 def add(a: int, b: int) -> int:
     """Adds two integers."""
